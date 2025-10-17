@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Copy of Gerador de Paisagem",
+  "description": "Um aplicativo que gera belas paisagens de fundo usando IA.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
